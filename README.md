@@ -7,3 +7,11 @@ Software engineering best practices for ML projects
 Technical communication and documentation
 
 Skills Showcased: Python, TensorFlow/Keras, Computer Vision, CNN, Data Preprocessing, Model Training, Software Architecture, Technical Documentation
+
+
+📧 Contact
+Wellington Barbosa
+<!-- 
+GitHub: @barbosa-wellington
+LinkedIn: [Your LinkedIn Profile]
+Email: [your.email@example.com] -->
